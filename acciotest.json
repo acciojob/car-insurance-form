@@ -1,4 +1,4 @@
 {
-    "testRepo": "car-insurance-solution",
+    "testRepo": "car-insurance-form-solution",
     "pathToFile": "cypress/integration/tests/test.spec.js"
 }
